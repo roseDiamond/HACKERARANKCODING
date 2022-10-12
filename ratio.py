@@ -18,5 +18,5 @@ def plusMinus(arr):
     print(f'{po:.3f}')   
     print(f'{no:.6f}')   
     print(f'{zo:.6f}')  
-plusMinus([1,2,3,0.-1,-9])
+plusMinus([1,2,3,0.-1,-8])
 v=[1,2,3,0.-1,-2]
